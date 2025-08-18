@@ -2,6 +2,8 @@
   <img src="assets/wild-research-banner.svg" alt="Wild Research Banner" width="520"/>
 </p>
 
+---
+
 <h3 align="center">
   Orchestrating Autonomous AI Systems with Precision, Scale, and Cohesion
 </h3>
@@ -55,12 +57,6 @@ Currently, I’m focused on an R&D project called the **Wild Research Framework*
 - Scaling **Wild Research Framework** into a deployable, modular AI swarm library.
 - Experimenting with swarm ethics & emergent behaviors for real‑world safety.
 - Exploring cross‑domain applications of multi‑agent collaboration.
-
----
-
-## 📊 Activity & Reach
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joshtol&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshtol&layout=compact&theme=radical)
 
 ---
 
