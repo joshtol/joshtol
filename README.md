@@ -1,6 +1,6 @@
 <div align="center" style="background-image: url('https://raw.githubusercontent.com/joshtol/assets/refs/heads/main/illustrations/hero-background.svg'); background-size: cover; background-position: center; padding: 40px 20px; border-radius: 10px;">
   <img src="https://raw.githubusercontent.com/joshtol/assets/refs/heads/main/logos/wild-research-logo-BW.svg#gh-light-mode-only" alt="Wild Research Logo" width="374" />
-  <img src="https://raw.githubusercontent.com/joshtol/assets/refs/heads/main/logos/wild-research-logo-BW.svg#gh-dark-mode-only" alt="Wild Research Logo" width="374" style="filter: brightness(0) invert(1);" />
+  <img src="https://raw.githubusercontent.com/joshtol/assets/refs/heads/main/logos/wild-research-logo-W.svg#gh-dark-mode-only" alt="Wild Research Logo" width="374" />
   <h1 style="color: #1F2937; font-family: sans-serif; font-weight: 600;">
     Architecting Autonomous AI Systems
   </h1>
@@ -51,7 +51,7 @@ The Wild Research Framework is a proprietary system for orchestrating large-scal
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/joshtol/assets/refs/heads/main/logos/QUEEN-logo-BW.svg#gh-light-mode-only" alt="QUEEN Logo" width="150" />
-  <img src="https://raw.githubusercontent.com/joshtol/assets/refs/heads/main/logos/QUEEN-logo-BW.svg#gh-dark-mode-only" alt="QUEEN Logo" width="150" style="filter: brightness(0) invert(1);" />
+  <img src="https://raw.githubusercontent.com/joshtol/assets/refs/heads/main/logos/QUEEN-logo-W.svg#gh-dark-mode-only" alt="QUEEN Logo" width="150" />
 </p>
 
 <h4 align="center">Core Architectural Achievement: The Queen-Drone Model</h4>
