@@ -1,8 +1,6 @@
 <div align="center" style="background-image: url('https://raw.githubusercontent.com/joshtol/assets/refs/heads/main/illustrations/hero-background.svg'); background-size: cover; background-position: center; padding: 40px 20px; border-radius: 10px;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joshtol/assets/refs/heads/main/logos/wild-research-logo-W.svg">
-    <img src="https://raw.githubusercontent.com/joshtol/assets/refs/heads/main/logos/wild-research-logo-BW.svg" alt="Wild Research Logo" width="374" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/joshtol/assets/refs/heads/main/logos/wild-research-logo-BW.svg#gh-light-mode-only" alt="Wild Research Logo" width="374" />
+  <img src="https://raw.githubusercontent.com/joshtol/assets/refs/heads/main/logos/wild-research-logo-W.svg#gh-dark-mode-only" alt="Wild Research Logo" width="374" />
   <h1 style="color: #1F2937; font-family: sans-serif; font-weight: 600;">
     Architecting Autonomous AI Systems
   </h1>
@@ -52,10 +50,8 @@ npm install @joshtol/emotive-engine
 The Wild Research Framework is a proprietary system for orchestrating large-scale AI swarms. As the architect, I designed the system to be highly modular, scalable, and capable of supporting thousands of concurrent agents with sub-100ms decision cycles.
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joshtol/assets/refs/heads/main/logos/QUEEN-logo-W.svg">
-    <img src="https://raw.githubusercontent.com/joshtol/assets/refs/heads/main/logos/QUEEN-logo-BW.svg" alt="QUEEN Logo" width="150" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/joshtol/assets/refs/heads/main/logos/QUEEN-logo-BW.svg#gh-light-mode-only" alt="QUEEN Logo" width="150" />
+  <img src="https://raw.githubusercontent.com/joshtol/assets/refs/heads/main/logos/QUEEN-logo-W.svg#gh-dark-mode-only" alt="QUEEN Logo" width="150" />
 </p>
 
 <h4 align="center">Core Architectural Achievement: The Queen-Drone Model</h4>
