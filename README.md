@@ -1,5 +1,6 @@
 <div align="center" style="background-image: url('https://raw.githubusercontent.com/joshtol/assets/refs/heads/main/illustrations/hero-background.svg'); background-size: cover; background-position: center; padding: 40px 20px; border-radius: 10px;">
-  <img src="https://raw.githubusercontent.com/joshtol/assets/refs/heads/main/logos/wild-research-logo-BW.svg" alt="Wild Research Logo" width="374" />
+  <img src="https://raw.githubusercontent.com/joshtol/assets/refs/heads/main/logos/wild-research-logo-BW.svg#gh-light-mode-only" alt="Wild Research Logo" width="374" />
+  <img src="https://raw.githubusercontent.com/joshtol/assets/refs/heads/main/logos/wild-research-logo-BW.svg#gh-dark-mode-only" alt="Wild Research Logo" width="374" style="filter: brightness(0) invert(1);" />
   <h1 style="color: #1F2937; font-family: sans-serif; font-weight: 600;">
     Architecting Autonomous AI Systems
   </h1>
@@ -13,8 +14,34 @@
 </h3>
 
 <p align="center">
-  I specialize in designing and deploying scalable, multi-agent architectures from research to production. My work focuses on creating robust, efficient AI swarms that can solve complex problems with emergent, collaborative intelligence.
+  I specialize in designing and deploying scalable, multi-agent architectures from research to production. My work focuses on creating robust, efficient AI swarms and emotionally intelligent interfaces that can solve complex problems with emergent, collaborative intelligence.
 </p>
+
+---
+
+## 🎨 Featured Project: Emotive Engine
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/joshtol/emotive-engine/main/assets/hero-banner.gif" alt="Emotive Engine" width="100%" />
+</p>
+
+**Real-time particle animation engine for AI interfaces with emotion-driven motion and musical beat synchronization**
+
+Emotive Engine is an open-source animation library that brings emotional intelligence to user interfaces through particle-based visualizations. Designed for AI assistants, chatbots, and interactive experiences, it transforms abstract emotional states into expressive visual animations.
+
+**Key Features:**
+- 🎭 **12 Rich Emotions** - Joy, calm, excited, love, focused, and more
+- 🎵 **Musical Time Sync** - Animations sync to beats, not milliseconds
+- 💫 **Shape Morphing** - Circle, heart, star, sun, moon with smooth transitions
+- ⚡ **High Performance** - 60 FPS on mobile with adaptive quality
+- 🔌 **Framework Agnostic** - Works with React, Vue, vanilla JS
+- 📦 **Production Ready** - 336 passing tests, zero vulnerabilities
+
+> 🔗 **Explore the project:** **[Emotive Engine on GitHub](https://github.com/joshtol/emotive-engine)** | **[Live Demo](https://emotiveengine.com/demo)** | **[NPM Package](https://www.npmjs.com/package/@joshtol/emotive-engine)**
+
+```bash
+npm install @joshtol/emotive-engine
+```
 
 ---
 
@@ -23,7 +50,8 @@
 The Wild Research Framework is a proprietary system for orchestrating large-scale AI swarms. As the architect, I designed the system to be highly modular, scalable, and capable of supporting thousands of concurrent agents with sub-100ms decision cycles.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/joshtol/assets/refs/heads/main/logos/QUEEN-logo-BW.svg" alt="QUEEN Logo" width="150" />
+  <img src="https://raw.githubusercontent.com/joshtol/assets/refs/heads/main/logos/QUEEN-logo-BW.svg#gh-light-mode-only" alt="QUEEN Logo" width="150" />
+  <img src="https://raw.githubusercontent.com/joshtol/assets/refs/heads/main/logos/QUEEN-logo-BW.svg#gh-dark-mode-only" alt="QUEEN Logo" width="150" style="filter: brightness(0) invert(1);" />
 </p>
 
 <h4 align="center">Core Architectural Achievement: The Queen-Drone Model</h4>
@@ -40,23 +68,32 @@ At the heart of the framework is the **Queen-Drone architecture**, a novel appro
 
 ## 📈 Vision & Applications
 
-The Wild Research Framework is more than a research project; it's a platform with the potential to disrupt multiple industries. My vision is to evolve it into a deployable, commercial-grade library for AI-driven automation.
+My work spans two critical domains of modern AI:
+
+**🎨 Emotional AI Interfaces**
+Creating intuitive, human-centric interactions through real-time emotional visualization. Emotive Engine demonstrates how particle systems and musical timing can transform cold AI interactions into warm, engaging experiences.
+
+**👑 Autonomous AI Systems**
+Building scalable multi-agent architectures for complex problem-solving. The Wild Research Framework shows how thousands of AI agents can coordinate seamlessly for enterprise-grade automation.
 
 **Potential Applications:**
-- **Logistics & Supply Chain:** Autonomous drone fleets for warehouse management and delivery.
-- **Cybersecurity:** Swarms of AI agents to detect and neutralize threats in real-time.
-- **Environmental Monitoring:** Coordinated sensor networks for climate change and disaster response.
-- **Drug Discovery:** Simulating complex biological systems with thousands of interacting agents.
+- **AI Assistants & Chatbots:** Emotionally responsive interfaces that feel alive
+- **Logistics & Supply Chain:** Autonomous drone fleets for warehouse management
+- **Healthcare:** Patient interfaces with calming, empathetic avatars
+- **Cybersecurity:** Swarms of AI agents detecting threats in real-time
+- **Education:** Engaging, emotionally-aware learning platforms
+- **Environmental Monitoring:** Coordinated sensor networks for climate response
 
-I am currently seeking opportunities to apply this technology to real-world challenges and explore new frontiers in swarm intelligence.
+I am currently seeking opportunities to apply these technologies to real-world challenges and explore new frontiers in AI systems.
 
 ---
 
 ## 🎯 Current Focus
 
+- Building **Emotive Engine** community and exploring applications in healthcare, education, and customer support.
 - Scaling **Wild Research Framework** into a deployable, modular AI swarm library.
 - Experimenting with swarm ethics & emergent behaviors for real‑world safety.
-- Exploring cross‑domain applications of multi‑agent collaboration.
+- Exploring cross‑domain applications of emotional AI and multi‑agent collaboration.
 
 ---
 
@@ -64,39 +101,44 @@ I am currently seeking opportunities to apply this technology to real-world chal
 
 My expertise lies in designing and building the complete lifecycle of AI systems. My core competencies include:
 - Multi‑Agent System Design & Simulation
+- Real-time Animation & Particle Systems
 - AI‑Driven Automation Pipelines
 - Cloud‑Native Architecture & Deployment
 - Bridging Simulation and Production Environments
 
 **Technologies I use:**
 
-**Backend & AI**  
+**Backend & AI**
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-**DevOps & Cloud**  
+**DevOps & Cloud**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-**Frontend**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Frontend & Animation**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Canvas](https://img.shields.io/badge/Canvas_2D-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ---
 
-##  portfolio-highlights Portfolio Highlights
+## 📁 Portfolio Highlights
 
 | Project                                                                                     | Overview                                                                                                                                                           |
 | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **[🎨 Emotive Engine](https://github.com/joshtol/emotive-engine)** | *Open-source animation engine for emotionally intelligent AI interfaces.*<br/>_Musical time synchronization, 12 emotions, shape morphing. **60 FPS on mobile**. Featured on [emotiveengine.com](https://emotiveengine.com)_ |
 | **[👑 Wild Research Framework](https://github.com/joshtol/wild-research-framework-overview)** | *Architected and visualized an interactive Queen–Drone AI swarm system.*<br/>_Scaled swarm simulations to **1K+ agents** with **sub‑100ms decision cycles**._          |
 | **[🐠 Caribbean Diving Guide 2025](https://github.com/joshtol/caribbean-diving-guide-2025)** | *Generated a comprehensive scuba guide using a proprietary agentic AI pipeline.*<br/>_Automated end-to-end creation of a full travel dataset in **<24 hours**._ |
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let's Connect
 
-I'm always open to discussing autonomous systems, AI orchestration, and opportunities to build the future.
+I'm always open to discussing autonomous systems, emotional AI, and opportunities to build the future.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joshuatollette/" target="_blank">
@@ -106,4 +148,10 @@ I'm always open to discussing autonomous systems, AI orchestration, and opportun
 
 ---
 
-<sub>🐝 Curious? — Check out the hidden [Swarm Logic Demo](https://example.com) for a peek into emergent decision‑making.</sub>
+<p align="center">
+  <sub>🎭 Curious about emotional AI? — Try the <a href="https://emotiveengine.com/demo">Interactive Demo</a></sub>
+  <br>
+  <sub>🐝 Curious about swarm logic? — Check out the hidden <a href="https://example.com">Swarm Logic Demo</a></sub>
+</p>
+
+---
