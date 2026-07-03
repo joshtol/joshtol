@@ -1,9 +1,5 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joshtol/joshtol/main/assets/otd-logotype-light.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joshtol/joshtol/main/assets/otd-logotype-navy.svg">
-    <img alt="One Thousand Drones" src="https://raw.githubusercontent.com/joshtol/joshtol/main/assets/otd-logotype-navy.svg" width="360" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/joshtol/joshtol/main/assets/otd-logotype-gold.svg" alt="One Thousand Drones" width="360" />
 </div>
 
 <h1 align="center">Joshua Tollette</h1>
@@ -39,9 +35,10 @@ The public site ships with a live BioScale BCI demo, a technical brief on the th
 ## Emotive Engine
 
 <p align="center">
-  <a href="https://joshtol.github.io/emotive-engine">
-    <img src="https://raw.githubusercontent.com/joshtol/emotive-engine/main/assets/previews/elemental-gestures.gif" alt="Emotive Engine" width="100%" />
-  </a>
+  <img src="https://raw.githubusercontent.com/joshtol/emotive-engine/main/assets/previews/crystal.gif" alt="Crystal" width="24%" />
+  <img src="https://raw.githubusercontent.com/joshtol/emotive-engine/main/assets/previews/sun.gif" alt="Sun" width="24%" />
+  <img src="https://raw.githubusercontent.com/joshtol/emotive-engine/main/assets/previews/moon.gif" alt="Moon" width="24%" />
+  <img src="https://raw.githubusercontent.com/joshtol/emotive-engine/main/assets/previews/blood-moon.gif" alt="Blood moon" width="24%" />
 </p>
 
 <p align="center">
