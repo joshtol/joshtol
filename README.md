@@ -1,9 +1,6 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joshtol/joshtol/main/assets/otd-logotype-light.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joshtol/joshtol/main/assets/otd-logotype-navy.svg">
-    <img alt="One Thousand Drones" src="https://raw.githubusercontent.com/joshtol/joshtol/main/assets/otd-logotype-navy.svg" width="360" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/joshtol/joshtol/main/assets/otd-logotype-navy.svg#gh-light-mode-only" alt="One Thousand Drones" width="360" />
+  <img src="https://raw.githubusercontent.com/joshtol/joshtol/main/assets/otd-logotype-light.svg#gh-dark-mode-only" alt="One Thousand Drones" width="360" />
 </div>
 
 <h1 align="center">Joshua Tollette</h1>
