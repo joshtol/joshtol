@@ -36,7 +36,7 @@ The public site ships with a live BioScale BCI demo, a technical brief on the th
 
 <p align="center">
   <a href="https://joshtol.github.io/emotive-engine">
-    <img src="https://raw.githubusercontent.com/joshtol/emotive-engine/main/assets/hero-banner.gif" alt="Emotive Engine" width="640" />
+    <img src="https://raw.githubusercontent.com/joshtol/emotive-engine/main/assets/previews/elemental-gestures.gif" alt="Emotive Engine" width="600" />
   </a>
 </p>
 
