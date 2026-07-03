@@ -35,10 +35,9 @@ The public site ships with a live BioScale BCI demo, a technical brief on the th
 ## Emotive Engine
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/joshtol/emotive-engine/main/assets/previews/crystal.gif" alt="Crystal" width="24%" />
-  <img src="https://raw.githubusercontent.com/joshtol/emotive-engine/main/assets/previews/sun.gif" alt="Sun" width="24%" />
-  <img src="https://raw.githubusercontent.com/joshtol/emotive-engine/main/assets/previews/moon.gif" alt="Moon" width="24%" />
-  <img src="https://raw.githubusercontent.com/joshtol/emotive-engine/main/assets/previews/blood-moon.gif" alt="Blood moon" width="24%" />
+  <a href="https://joshtol.github.io/emotive-engine">
+    <img src="https://raw.githubusercontent.com/joshtol/emotive-engine/main/assets/hero-banner.gif" alt="Emotive Engine" width="640" />
+  </a>
 </p>
 
 <p align="center">
