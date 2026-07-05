@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/joshtol/joshtol/main/assets/otd-logotype-gold.svg" alt="One Thousand Drones" width="360" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="assets/otd-banner-personal-ivory-1280x400.png">
+    <img alt="One Thousand Drones — one mind, many machines." src="assets/otd-banner-personal-1200x360.png" width="100%" />
+  </picture>
 </div>
 
 <h1 align="center">Joshua Tollette</h1>
