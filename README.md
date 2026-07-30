@@ -30,6 +30,16 @@ The public site ships with a live BioScale BCI demo, a technical brief on the th
 - Academy: [academy.onethousanddrones.com](https://academy.onethousanddrones.com), an open hardware-engineering curriculum
 - Tooling: [ee-calculators](https://github.com/Otd-llc/ee-calculators), the tested, MIT-licensed math behind the Academy's calculators
 
+<p align="center">
+  <a href="https://academy.onethousanddrones.com">
+    <img alt="L1.01 WROOM breakout: the dimensioned drawing beside the finished board" src="assets/l101-hero-dark.png" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>The Academy's flagship board. The drawing is generated from the board's own Gerber geometry, the render from its released 3D model.</sub>
+</p>
+
 ---
 
 ## Emotive Engine
