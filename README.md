@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="One Thousand Drones — one mind, many machines." src="assets/otd-banner-personal-1200x360.png" width="100%" />
+  <img alt="One Thousand Drones · one mind, many machines." src="assets/otd-banner-personal-1200x360.png" width="100%" />
 </div>
 
 <h1 align="center">Joshua Tollette</h1>
@@ -28,6 +28,7 @@ The public site ships with a live BioScale BCI demo, a technical brief on the th
 
 - Site: [onethousanddrones.com](https://onethousanddrones.com)
 - Academy: [academy.onethousanddrones.com](https://academy.onethousanddrones.com), an open hardware-engineering curriculum
+- Open hardware: [Hex Cluster](https://academy.onethousanddrones.com/hex), the printable carrier system our test boards live in, released CC BY 4.0
 - Tooling: [ee-calculators](https://github.com/Otd-llc/ee-calculators), the tested, MIT-licensed math behind the Academy's calculators
 
 <p align="center">
@@ -38,6 +39,20 @@ The public site ships with a live BioScale BCI demo, a technical brief on the th
 
 <p align="center">
   <sub>The Academy's flagship board. The drawing is generated from the board's own Gerber geometry, the render from its released 3D model.</sub>
+</p>
+
+<p align="center">
+  <a href="https://academy.onethousanddrones.com/hex">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/hex-cluster-loop.webp">
+      <source media="(prefers-color-scheme: light)" srcset="assets/hex-cluster-loop-ivory.webp">
+      <img alt="Three hex tiles: a carrier tray opens, two neighbouring tiles engage, and edge caps go on." src="assets/hex-cluster-loop.webp" width="720" />
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <sub>Hex Cluster, the carrier system those boards sit in. Dovetails on all six edges, so a tiled layout behaves as one rigid body. Free under CC BY 4.0.</sub>
 </p>
 
 ---
@@ -78,6 +93,7 @@ Live demo: [joshtol.github.io/emotive-engine](https://joshtol.github.io/emotive-
 |---------|-----------|
 | **[Emotive Engine](https://github.com/joshtol/emotive-engine)** | Open-source animation runtime for expressive AI interfaces. Real-time WebGL and Canvas, published on npm. |
 | **[ee-calculators](https://github.com/Otd-llc/ee-calculators)** | Tested TypeScript for nine electronics calculators. The MIT-licensed core behind the OTD Academy tools. |
+| **[Hex Cluster](https://academy.onethousanddrones.com/hex)** | A printable hex carrier system, dovetailed on all six edges. CC BY 4.0, with a browser configurator that exports only the parts a layout needs. |
 | **[Caribbean Diving Guide 2025](https://github.com/joshtol/caribbean-diving-guide-2025)** | A full reef-diving guide generated end to end with an agentic AI pipeline. |
 
 ---
