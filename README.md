@@ -43,11 +43,7 @@ The public site ships with a live BioScale BCI demo, a technical brief on the th
 
 <p align="center">
   <a href="https://academy.onethousanddrones.com/hex">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/hex-cluster-loop.webp">
-      <source media="(prefers-color-scheme: light)" srcset="assets/hex-cluster-loop-ivory.webp">
-      <img alt="Three hex tiles: a carrier tray opens, two neighbouring tiles engage, and edge caps go on." src="assets/hex-cluster-loop.webp" width="720" />
-    </picture>
+    <img alt="Three hex tiles: a carrier tray opens, two neighbouring tiles engage, and edge caps go on." src="assets/hex-cluster-loop.webp" width="720" />
   </a>
 </p>
 
