@@ -24,7 +24,7 @@
 
 My company. A SAM.gov-registered defense research lab building **Brain-to-Swarm**: a non-invasive EEG interface that lets an operator supervise a drone swarm through motor imagery, paired with a safety layer and a training academy.
 
-The public site ships with a live BioScale BCI demo, a technical brief on the three-part system, and a briefing-request flow. Built on Next.js 16, React 19, and TypeScript, deployed on Vercel.
+The public site ships with a live Aplomado BCI demo, a technical brief on the three-part system, and a briefing-request flow. Built on Next.js 16, React 19, and TypeScript, deployed on Vercel.
 
 - Site: [onethousanddrones.com](https://onethousanddrones.com)
 - Academy: [academy.onethousanddrones.com](https://academy.onethousanddrones.com), an open hardware-engineering curriculum
