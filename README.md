@@ -20,30 +20,49 @@ My company. A SAM.gov-registered defense research lab building **Brain-to-Swarm*
 
 The public site ships with a live Aplomado HID demo, a technical brief on the three-part system, and a briefing-request flow. Built on Next.js 16, React 19, and TypeScript, deployed on Vercel.
 
-- Site: [onethousanddrones.com](https://onethousanddrones.com)
-- Academy: [academy.onethousanddrones.com](https://academy.onethousanddrones.com), an open hardware-engineering curriculum
-- Open hardware: [Hex Cluster](https://academy.onethousanddrones.com/hex), the printable carrier system our test boards live in, released CC BY 4.0
-- Tooling: [ee-calculators](https://github.com/Otd-llc/ee-calculators), the tested, MIT-licensed math behind the Academy's calculators
+**Site** · [onethousanddrones.com](https://onethousanddrones.com) · **Demo** · [demo.onethousanddrones.com](https://demo.onethousanddrones.com)
 
-<p align="center">
-  <a href="https://academy.onethousanddrones.com">
-    <img alt="L1.01 WROOM breakout: the dimensioned drawing beside the finished board" src="assets/l101-hero-dark.png" width="100%" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%"><a href="https://onethousanddrones.com"><img alt="The One Thousand Drones home page: ONE MIND. MANY MACHINES., an EEG headset render, and the Aplomado HID section below" src="assets/shot-apex-home-2026-10.webp" width="100%" /></a><br><sub>onethousanddrones.com, captured October 2026.</sub></td>
+    <td width="50%"><a href="https://onethousanddrones.com/#aplomado"><img alt="The Aplomado HID section of the company site: three drones over a hex floor, the decoded intent HOLD, and the Aplomado mark beside its description" src="assets/shot-apex-aplomado-2026-10.webp" width="100%" /></a><br><sub>The Aplomado HID section, simulated signal. onethousanddrones.com, captured October 2026.</sub></td>
+  </tr>
+</table>
 
-<p align="center">
-  <sub>The Academy's flagship board. The drawing is generated from the board's own Gerber geometry, the render from its released 3D model.</sub>
-</p>
+## Academy
 
----
+An open hardware-engineering curriculum. Twenty-two projects from your first ESP32 board to an EEG BCI, each one a board you draw, lay out and check yourself. L1.01 is free.
+
+**Start** · [academy.onethousanddrones.com](https://academy.onethousanddrones.com) · **Library** · [academy.onethousanddrones.com/library](https://academy.onethousanddrones.com/library)
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://academy.onethousanddrones.com"><img alt="The L1.01 board's Gerber layers separate into a stack and close back into one board" src="assets/loop-gerber-explode.webp" width="100%" /></a><br><sub>The L1.01 board's layers, drawn from its own Gerbers.</sub></td>
+    <td width="50%"><a href="https://academy.onethousanddrones.com"><img alt="The L1.01 ESP32-S3 USB-C breakout board turning once" src="assets/loop-board-turntable.webp" width="100%" /></a><br><sub>The L1.01 board, rendered from its released 3D model.</sub></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://academy.onethousanddrones.com/projects/l1-01-wroom-breakout/v1/guide"><img alt="The L1.01 WROOM BREAKOUT build guide: the board on a hex stage card, requirements in progress" src="assets/shot-acad-guide-2026-10.webp" width="100%" /></a><br><sub>The L1.01 build guide, captured October 2026.</sub></td>
+    <td width="50%"><a href="https://academy.onethousanddrones.com/library"><img alt="The Academy library: REFERENCE GUIDES., a featured guide on controlling a drone with your brain, and the newest guides" src="assets/shot-academy-library-2026-10.webp" width="100%" /></a><br><sub>The free reference library, captured October 2026.</sub></td>
+  </tr>
+</table>
+
+## Hex Cluster
+
+The printable carrier system our test boards live in. Dovetailed on all six edges, released CC BY 4.0, with a browser configurator that exports only the parts a layout needs.
+
+**Configurator** · [hex.onethousanddrones.com](https://hex.onethousanddrones.com) · **About** · [academy.onethousanddrones.com/hex](https://academy.onethousanddrones.com/hex)
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://hex.onethousanddrones.com"><img alt="A ground-control mast build assembles part by part in the Hex Cluster configurator" src="assets/loop-hex-gcs-mast.webp" width="100%" /></a><br><sub>A GCS mast build assembling, rendered by the configurator itself.</sub></td>
+    <td width="50%"><a href="https://onethousanddrones.com/#hex"><img alt="The Hex Cluster section of the company site: an exploded line drawing of a base tile with numbered balloons beside the parts list and its measured sizes in mm" src="assets/shot-apex-hex-2026-10.webp" width="100%" /></a><br><sub>Parts drawn from the CAD, sizes measured from it. onethousanddrones.com, captured October 2026.</sub></td>
+  </tr>
+</table>
 
 ## Emotive Engine
-
-<p align="center">
-  <a href="https://www.emotiveengine.com">
-    <img src="https://raw.githubusercontent.com/joshtol/emotive-engine/main/assets/previews/elemental-gestures.gif" alt="Emotive Engine" width="600" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://www.npmjs.com/package/@joshtol/emotive-engine"><img src="https://img.shields.io/npm/v/@joshtol/emotive-engine.svg?style=for-the-badge&labelColor=08090d&color=c8963e" alt="npm version" /></a>
@@ -63,18 +82,29 @@ An open-source runtime that turns AI interfaces into expressive characters. You 
 npm install @joshtol/emotive-engine
 ```
 
-Live demo: [emotiveengine.com](https://www.emotiveengine.com) · Repo: [emotive-engine](https://github.com/joshtol/emotive-engine)
+**Demo** · [emotiveengine.com](https://www.emotiveengine.com) · **Repo** · [emotive-engine](https://github.com/joshtol/emotive-engine)
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://www.emotiveengine.com"><img alt="Emotive Engine characters cycling through a second set of elemental gestures" src="assets/loop-emotive-elemental-2.webp" width="100%" /></a><br><sub>Elemental gestures, from the engine's own preview set.</sub></td>
+    <td width="50%"><a href="https://www.emotiveengine.com/examples"><img alt="The Emotive Engine examples gallery: Crystal Soul, Basic Usage, 3D Elemental and Solar Eclipse" src="assets/shot-emo-examples-2026-10.webp" width="100%" /></a><br><sub>The examples gallery, emotiveengine.com, captured October 2026.</sub></td>
+  </tr>
+</table>
 
 ---
 
 ## Also on the workbench
 
-| Project | What it is |
-|---------|-----------|
-| **[Emotive Engine](https://github.com/joshtol/emotive-engine)** | Open-source animation runtime for expressive AI interfaces. Real-time WebGL and Canvas, published on npm. |
-| **[ee-calculators](https://github.com/Otd-llc/ee-calculators)** | Tested TypeScript for nine electronics calculators. The MIT-licensed core behind the OTD Academy tools. |
-| **[Hex Cluster](https://academy.onethousanddrones.com/hex)** | A printable hex carrier system, dovetailed on all six edges. CC BY 4.0, with a browser configurator that exports only the parts a layout needs. |
-| **[Caribbean Diving Guide 2025](https://github.com/joshtol/caribbean-diving-guide-2025)** | A full reef-diving guide generated end to end with an agentic AI pipeline. |
+<table>
+  <tr>
+    <td width="24%"><a href="https://github.com/Otd-llc/ee-calculators"><img alt="The voltage divider calculator on a phone: two resistors in, the output voltage out" src="assets/shot-ee-voltage-divider.webp" width="100%" /></a></td>
+    <td valign="top"><b><a href="https://github.com/Otd-llc/ee-calculators">ee-calculators</a></b><br>Tested TypeScript for nine electronics calculators. The MIT-licensed core behind the OTD Academy tools.<br><sub>The voltage divider, from the repo's own docs.</sub></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td valign="top"><b><a href="https://github.com/joshtol/caribbean-diving-guide-2025">Caribbean Diving Guide 2025</a></b><br>A full reef-diving guide generated end to end with an agentic AI pipeline.</td>
+  </tr>
+</table>
 
 ---
 
