@@ -16,15 +16,9 @@
 
 ## One Thousand Drones
 
-<p align="center">
-  <a href="https://onethousanddrones.com">
-    <img src="https://raw.githubusercontent.com/Otd-llc/otd-site/main/docs/screenshots/home.png" alt="One Thousand Drones" width="100%" />
-  </a>
-</p>
-
 My company. A SAM.gov-registered defense research lab building **Brain-to-Swarm**: a non-invasive EEG interface that lets an operator supervise a drone swarm through motor imagery, paired with a safety layer and a training academy.
 
-The public site ships with a live BioScale BCI demo, a technical brief on the three-part system, and a briefing-request flow. Built on Next.js 16, React 19, and TypeScript, deployed on Vercel.
+The public site ships with a live Aplomado HID demo, a technical brief on the three-part system, and a briefing-request flow. Built on Next.js 16, React 19, and TypeScript, deployed on Vercel.
 
 - Site: [onethousanddrones.com](https://onethousanddrones.com)
 - Academy: [academy.onethousanddrones.com](https://academy.onethousanddrones.com), an open hardware-engineering curriculum
@@ -41,36 +35,26 @@ The public site ships with a live BioScale BCI demo, a technical brief on the th
   <sub>The Academy's flagship board. The drawing is generated from the board's own Gerber geometry, the render from its released 3D model.</sub>
 </p>
 
-<p align="center">
-  <a href="https://academy.onethousanddrones.com/hex">
-    <img alt="Three hex tiles: a carrier tray opens, two neighbouring tiles engage, and edge caps go on." src="assets/hex-cluster-loop.webp" width="720" />
-  </a>
-</p>
-
-<p align="center">
-  <sub>Hex Cluster, the carrier system those boards sit in. Dovetails on all six edges, so a tiled layout behaves as one rigid body. Free under CC BY 4.0.</sub>
-</p>
-
 ---
 
 ## Emotive Engine
 
 <p align="center">
-  <a href="https://joshtol.github.io/emotive-engine">
+  <a href="https://www.emotiveengine.com">
     <img src="https://raw.githubusercontent.com/joshtol/emotive-engine/main/assets/previews/elemental-gestures.gif" alt="Emotive Engine" width="600" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.npmjs.com/package/@joshtol/emotive-engine"><img src="https://img.shields.io/npm/v/@joshtol/emotive-engine.svg?style=for-the-badge" alt="npm version" /></a>
-  <a href="https://www.npmjs.com/package/@joshtol/emotive-engine"><img src="https://img.shields.io/npm/dm/@joshtol/emotive-engine.svg?style=for-the-badge" alt="npm downloads" /></a>
-  <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge" alt="MIT license" />
+  <a href="https://www.npmjs.com/package/@joshtol/emotive-engine"><img src="https://img.shields.io/npm/v/@joshtol/emotive-engine.svg?style=for-the-badge&labelColor=08090d&color=c8963e" alt="npm version" /></a>
+  <a href="https://www.npmjs.com/package/@joshtol/emotive-engine"><img src="https://img.shields.io/npm/dm/@joshtol/emotive-engine.svg?style=for-the-badge&labelColor=08090d&color=c8963e" alt="npm downloads" /></a>
+  <img src="https://img.shields.io/badge/license-MIT-c8963e.svg?style=for-the-badge&labelColor=08090d" alt="MIT license" />
 </p>
 
 An open-source runtime that turns AI interfaces into expressive characters. You drive it with a natural-language `feel()` call, and it renders emotion as motion.
 
-- 15 emotions and 180+ gestures
-- 8 elemental shader systems with 160+ elemental gestures
+- 15 emotions and 179 gestures
+- 8 elemental shader systems with 160 elemental gestures
 - 3D WebGL path with custom GLSL: subsurface scattering, physically based materials, bloom
 - Lightweight 2D Canvas path: particles, shape morphing, gaze tracking, mobile-optimized
 - Framework-agnostic, working with React, Vue, or vanilla JS
@@ -79,7 +63,7 @@ An open-source runtime that turns AI interfaces into expressive characters. You 
 npm install @joshtol/emotive-engine
 ```
 
-Live demo: [joshtol.github.io/emotive-engine](https://joshtol.github.io/emotive-engine) · Repo: [emotive-engine](https://github.com/joshtol/emotive-engine)
+Live demo: [emotiveengine.com](https://www.emotiveengine.com) · Repo: [emotive-engine](https://github.com/joshtol/emotive-engine)
 
 ---
 
@@ -97,14 +81,14 @@ Live demo: [joshtol.github.io/emotive-engine](https://joshtol.github.io/emotive-
 ## Stack
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/TypeScript-08090d?style=for-the-badge&logo=typescript&logoColor=c8963e" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Go-08090d?style=for-the-badge&logo=go&logoColor=c8963e" alt="Go" />
+  <img src="https://img.shields.io/badge/Python-08090d?style=for-the-badge&logo=python&logoColor=c8963e" alt="Python" />
+  <img src="https://img.shields.io/badge/Next.js-08090d?style=for-the-badge&logo=next.js&logoColor=c8963e" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-08090d?style=for-the-badge&logo=react&logoColor=c8963e" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-08090d?style=for-the-badge&logo=node.js&logoColor=c8963e" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Docker-08090d?style=for-the-badge&logo=docker&logoColor=c8963e" alt="Docker" />
+  <img src="https://img.shields.io/badge/Google_Cloud-08090d?style=for-the-badge&logo=google-cloud&logoColor=c8963e" alt="Google Cloud" />
 </p>
 
 ---
@@ -114,7 +98,12 @@ Live demo: [joshtol.github.io/emotive-engine](https://joshtol.github.io/emotive-
 I'm open to talking about autonomous systems, brain-computer interfaces, and hard interface problems.
 
 <p>
-  <a href="https://www.linkedin.com/in/joshuatollette/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://onethousanddrones.com"><img src="https://img.shields.io/badge/onethousanddrones.com-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  <a href="mailto:josh@onethousanddrones.com"><img src="https://img.shields.io/badge/Email-c8963e?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/joshuatollette/"><img src="https://img.shields.io/badge/LinkedIn-08090d?style=for-the-badge&logo=linkedin&logoColor=c8963e" alt="LinkedIn" /></a>
+  <a href="https://onethousanddrones.com"><img src="https://img.shields.io/badge/onethousanddrones.com-08090d?style=for-the-badge&logo=googlechrome&logoColor=c8963e" alt="Website" /></a>
+  <a href="mailto:josh@onethousanddrones.com"><img src="https://img.shields.io/badge/Email-c8963e?style=for-the-badge&logo=gmail&logoColor=08090d" alt="Email" /></a>
 </p>
+
+---
+
+<sub><b>ONE THOUSAND DRONES</b> · [onethousanddrones.com](https://onethousanddrones.com) · [academy.onethousanddrones.com](https://academy.onethousanddrones.com) · [github.com/Otd-llc](https://github.com/Otd-llc)</sub>
+<!-- otd-readme-kit footer v1 -->
